@@ -44,3 +44,8 @@ def getcolor():
     apps=myapps(root)
     root.mainloop()
     return rets
+
+
+
+
+print(getcolor())
